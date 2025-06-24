@@ -1,0 +1,5 @@
+O combate funciona desse jeito
+se voce tem 15 de ataque e seu inimigo tem 5 de defesa voce vai dar 10 de dano
+se voce se defende e a defesa tem *3 mais que 50% de ataque da pessoa a pessoa toma a diferença de dano
+mas se usar a defesa diminui 1 ponto dela se for bem sucedido a defesa
+mesma coisa para a magia
